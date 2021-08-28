@@ -1,3 +1,4 @@
 CRISNA RESOLUSI
-- Konsisten untuk membuat laporan 1x seminggu
-- Membuat platfrom untuk pengelolaan laporan
+- Konsisten untuk membuat vidio 2x semiggu
+- Membuat platfrom untuk pengelolaan vidio
+- 
