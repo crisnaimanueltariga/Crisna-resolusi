@@ -1,4 +1,5 @@
 CRISNA RESOLUSI
 - Konsisten untuk membuat vidio 2x semiggu
 - Membuat platfrom untuk pengelolaan vidio
-- 
+- Membuat vlog
+- Membuat forum diskusi
